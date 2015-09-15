@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeExtender", "TimeExtender\TimeExtender.csproj", "{C917F7EB-CDA9-4297-877F-EACB5F779807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{BC0E6530-EA12-4ADF-A219-DFE1EF90107A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventPlanner", "EventPlanner\EventPlanner.csproj", "{D155B8D3-F69A-41F6-8EE5-26C1CD36C0EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework", "Framework", "{1027468F-23BE-4E1F-9C23-D8EC55E35C76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C917F7EB-CDA9-4297-877F-EACB5F779807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C917F7EB-CDA9-4297-877F-EACB5F779807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C917F7EB-CDA9-4297-877F-EACB5F779807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C917F7EB-CDA9-4297-877F-EACB5F779807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0E6530-EA12-4ADF-A219-DFE1EF90107A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0E6530-EA12-4ADF-A219-DFE1EF90107A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0E6530-EA12-4ADF-A219-DFE1EF90107A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0E6530-EA12-4ADF-A219-DFE1EF90107A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D155B8D3-F69A-41F6-8EE5-26C1CD36C0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D155B8D3-F69A-41F6-8EE5-26C1CD36C0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D155B8D3-F69A-41F6-8EE5-26C1CD36C0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D155B8D3-F69A-41F6-8EE5-26C1CD36C0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
